@@ -1,0 +1,15 @@
+.demo{
+    color: #262626;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px #eee;
+    padding: 10px;
+}   
+.vip{
+    color: red;
+    background-color: #eee;
+    box-shadow: 10px 10px 10px black;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
